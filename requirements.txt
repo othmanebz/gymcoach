@@ -1,0 +1,9 @@
+Flask
+flask-cors
+sentence-transformers
+weaviate-client
+google-api-python-client
+google-generativeai
+python-dotenv
+beautifulsoup4
+requests
