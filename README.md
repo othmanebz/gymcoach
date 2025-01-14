@@ -1,6 +1,3 @@
-Here's the README.md file:
-
-```markdown
 # Virtual Gym Coach 🏋️‍♂️
 
 A web-based AI-powered fitness companion that provides personalized workout and nutrition advice based on your profile.
@@ -130,4 +127,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For support, please open an issue in the GitHub repository or contact the maintainers.
-```
