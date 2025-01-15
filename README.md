@@ -124,6 +124,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - No sensitive information is transmitted to external services
 - API keys should be kept secure and never exposed in frontend code
 
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
